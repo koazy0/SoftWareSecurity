@@ -1,0 +1,10 @@
+{"dwInitialSize":0,"dwMaximumSize":8192,"fIOoptions":262149,"fun":"HeapCreate","returned_Handle":37683200}
+{"dwInitialSize":0,"dwMaximumSize":8192,"fIOoptions":262149,"fun":"HeapCreate","returned_Handle":39780352}
+{"dwInitialSize":0,"dwMaximumSize":8192,"fIOoptions":262149,"fun":"HeapCreate","returned_Handle":36044800}
+{"dwBytes":256,"dwFlags":9,"fun":"HeapAlloc","hHeap":37683200,"returned_Lpvoid":37684376}
+{"dwBytes":256,"dwFlags":9,"fun":"HeapAlloc","hHeap":37683200,"returned_Lpvoid":37684640}
+{"dwBytes":256,"dwFlags":9,"fun":"HeapAlloc","hHeap":37683200,"returned_Lpvoid":37684904}
+{"dwFlags":0,"fun":"HeapFree","hHeap":37683200,"lpMem":37684376,"returned_Bool":1}
+{"dwFlags":0,"fun":"HeapFree","hHeap":37683200,"lpMem":37684904,"returned_Bool":1}
+{"fun":"heapDestroy","handle":37683200,"returned_Bool":1}
+{"fun":"heapDestroy","handle":36044800,"returned_Bool":1}
