@@ -1,0 +1,10 @@
+﻿F:\Program Files (x86)\vs2017IDE\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(DLLmain.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  pch.cpp
+  dllmainW.cpp
+c:\users\koazy-0\source\repos\dllmain\dllmain\dllmainw.cpp(216): warning C4018: “<”: 有符号/无符号不匹配
+  record.cpp
+    正在创建库 C:\Users\koazy-0\source\repos\DLLmain\Release\DLLmainW.lib 和对象 C:\Users\koazy-0\source\repos\DLLmain\Release\DLLmainW.exp
+  正在生成代码
+  All 1190 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  DLLmain.vcxproj -> C:\Users\koazy-0\source\repos\DLLmain\Release\DLLmainW.dll
